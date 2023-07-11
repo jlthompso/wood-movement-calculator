@@ -1,0 +1,116 @@
+﻿group,species,subspecies,radial_%_shrinkage,tangential_%_shrinkage,volumetric_%_shrinkage
+hardwood,alder,red,4.4,7.3,12.6
+hardwood,ash,black,5.0,7.8,15.2
+hardwood,ash,blue,3.9,6.5,11.7
+hardwood,ash,green,4.6,7.1,12.5
+hardwood,ash,oregon,4.1,8.1,13.2
+hardwood,ash,pumpkin,3.7,6.3,12.0
+hardwood,ash,white,4.9,7.8,13.3
+hardwood,aspen,bigtooth,3.3,7.9,11.8
+hardwood,aspen,quaking,3.5,6.7,11.5
+hardwood,basswood,american,6.6,9.3,15.8
+hardwood,beech,american,5.5,11.9,17.2
+hardwood,birch,alaska paper,6.5,9.9,16.7
+hardwood,birch,gray,5.2,9.5,14.7
+hardwood,birch,paper,6.3,8.6,16.2
+hardwood,birch,river,4.7,9.2,13.5
+hardwood,birch,sweet,6.5,9.0,15.6
+hardwood,birch,yellow,7.3,9.5,16.8
+hardwood,buckeye,yellow,3.6,8.1,12.5
+hardwood,butternut,,3.4,6.4,10.6
+hardwood,cherry,black,3.7,7.1,11.5
+hardwood,chestnut,american,3.4,6.7,11.6
+hardwood,cottonwood,balsam poplar,3.0,7.1,10.5
+hardwood,cottonwood,black,3.6,8.6,12.4
+hardwood,cottonwood,eastern,3.9,9.2,13.9
+hardwood,elm,american,4.2,9.5,14.6
+hardwood,elm,cedar,4.7,10.2,15.4
+hardwood,elm,rock,4.8,8.1,14.9
+hardwood,elm,slippery,4.9,8.9,13.8
+hardwood,elm,winged,5.3,11.6,17.7
+hardwood,hackberry,,4.8,8.9,13.8
+hardwood,pecan hickory,,4.9,8.9,13.6
+hardwood,true hickory,mockernut,7.7,11.0,17.8
+hardwood,true hickory,pignut,7.2,11.5,17.9
+hardwood,true hickory,shagbark,7.0,10.5,16.7
+hardwood,true hickory,shellbark,7.6,12.6,19.2
+hardwood,holly,american,4.8,9.9,16.9
+hardwood,honeylocust,,4.2,6.6,10.8
+hardwood,locust,black,4.6,7.2,10.2
+hardwood,madrone,pacific,5.6,12.4,18.1
+hardwood,magnolia,cucumbertree,5.2,8.8,13.6
+hardwood,magnolia,southern,5.4,6.6,12.3
+hardwood,magnolia,sweetbay,4.7,8.3,12.9
+hardwood,maple,bigleaf,3.7,7.1,11.6
+hardwood,maple,black,4.8,9.3,14.0
+hardwood,maple,red,4.0,8.2,12.6
+hardwood,maple,silver,3.0,7.2,12.0
+hardwood,maple,striped,3.2,8.6,12.3
+hardwood,maple,sugar,4.8,9.9,14.7
+hardwood,red oak,black,4.4,11.1,15.1
+hardwood,red oak,laurel,4.0,9.9,19.0
+hardwood,red oak,northern red,4.0,8.6,13.7
+hardwood,red oak,pin,4.3,9.5,14.5
+hardwood,red oak,scarlet,4.4,10.8,14.7
+hardwood,red oak,southern red,4.7,11.3,16.1
+hardwood,red oak,water,4.4,9.8,16.1
+hardwood,red oak,willow,5.0,9.6,18.9
+hardwood,white oak,bur,4.4,8.8,12.7
+hardwood,white oak,chestnut,5.3,10.8,16.4
+hardwood,white oak,live,6.6,9.5,14.7
+hardwood,white oak,overcup,5.3,12.7,16.0
+hardwood,white oak,post,5.4,9.8,16.2
+hardwood,white oak,swamp chestnut,5.2,10.8,16.4
+hardwood,white oak,white,5.6,10.5,16.3
+hardwood,persimmon,common,7.9,11.2,19.1
+hardwood,sassafras,,4.0,6.2,10.3
+hardwood,sweetgum,,5.3,10.2,15.8
+hardwood,sycamore,american,5.0,8.4,14.1
+hardwood,tanoak,,4.9,11.7,17.3
+hardwood,tupelo,black,5.1,8.7,14.4
+hardwood,tupelo,water,4.2,7.6,12.5
+hardwood,walnut,black,5.5,7.8,12.8
+hardwood,willow,black,3.3,8.7,13.9
+hardwood,poplar,yellow,4.6,8.2,12.7
+softwood,cedar,yellow,2.8,6.0,9.2
+softwood,cedar,atlantic white,2.9,5.4,8.8
+softwood,cedar,eastern redcedar,3.1,4.7,7.8
+softwood,cedar,incense,3.3,5.2,7.7
+softwood,cedar,northern white,2.2,4.9,7.2
+softwood,cedar,port orford,4.6,6.9,10.1
+softwood,cedar,western redcedar,2.4,5.0,6.8
+softwood,douglas fir,coast,4.8,7.6,12.4
+softwood,douglas fir,interior north,3.8,6.9,10.7
+softwood,douglas fir,interior west,4.8,7.5,11.8
+softwood,fir,balsam,2.9,6.9,11.2
+softwood,fir,california red,4.5,7.9,11.4
+softwood,fir,grand,3.4,7.5,11.0
+softwood,fir,noble,4.3,8.3,12.4
+softwood,fir,pacific silver,4.4,9.2,13.0
+softwood,fir,subalpine,2.6,7.4,9.4
+softwood,fir,white,3.3,7.0,9.8
+softwood,hemlock,eastern,3.0,6.8,9.7
+softwood,hemlock,mountain,4.4,7.1,11.1
+softwood,hemlock,western,4.2,7.8,12.4
+softwood,larch,western,4.5,9.1,14.0
+softwood,pine,eastern white,2.1,6.1,8.2
+softwood,pine,jack,3.7,6.6,10.3
+softwood,pine,loblolly,4.8,7.4,12.3
+softwood,pine,lodgepole,4.3,6.7,11.1
+softwood,pine,longleaf,5.1,7.5,12.2
+softwood,pine,pitch,4.0,7.1,10.9
+softwood,pine,pond,5.1,7.1,11.2
+softwood,pine,ponderosa,3.9,6.2,9.7
+softwood,pine,red,3.8,7.2,11.3
+softwood,pine,shortleaf,4.6,7.7,12.3
+softwood,pine,slash,5.4,7.6,12.1
+softwood,pine,sugar,2.9,5.6,7.9
+softwood,pine,virginia,4.2,7.2,11.9
+softwood,pine,western white,4.1,7.4,11.8
+softwood,redwood,old growth,2.6,4.4,6.8
+softwood,redwood,young growth,2.2,4.9,7.0
+softwood,spruce,black,4.1,6.8,11.3
+softwood,spruce,engelmann,3.8,7.1,11.0
+softwood,spruce,red,3.8,7.8,11.8
+softwood,spruce,sitka,4.3,7.5,11.5
+softwood,tamarack,,3.7,7.4,13.6
